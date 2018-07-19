@@ -1,0 +1,33 @@
+body {
+  line-height: 1.5;
+  background: url(https://ws1.sinaimg.cn/large/006Lp3D9gy1ftcy2yb27kj30hs0hsmz9.jpg);
+  color: white;
+  font-family: "microsoft yahei";
+  /* 以下代码为全屏图片的实现方式，请勿改动 */
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+.container {
+  width: 50%;
+  background: rgba(0,0,0,0.5);
+  margin: 30px;
+  padding: 50px;
+  border-radius: 10px;
+}
+
+a {
+	color: #BFEFFF;
+	text-decoration: none;
+}
+
+h1{
+  margin-top: -30px;
+	font-size: 50px;
+}
+
+h2 {
+	margin-top: -30px;
+	font-size: 1.4em;
+}
